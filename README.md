@@ -1,7 +1,7 @@
 # Habitude
 
 <div align="center">
-  <img src="/habitude.png" alt="Habitude Logo" width="200" />
+  <img src="/public/habitude.png" alt="Habitude Logo" width="200" />
   <h3>Build Better Habits, One Day at a Time</h3>
 </div>
 
