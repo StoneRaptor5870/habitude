@@ -59,7 +59,7 @@ Habitude is built with modern technologies:
    Create a `.env.local` file in the root directory with the following variables:
    ```
    DATABASE_URL="postgresql://username:password@localhost:5432/habitude"
-   NEXTAUTH_SECRET="your-secret-key"
+   JWT_SECRET="your-secret-key"
    NEXTAUTH_URL="http://localhost:3000"
    ```
 
